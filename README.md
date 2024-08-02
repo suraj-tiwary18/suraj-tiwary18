@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Tiwari</h1>
 <h3 align="center">A passionate frontend Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" scr="![image](https://github.com/user-attachments/assets/823170db-4733-4abe-b932-81b1e003388a)
-">
+<img align="right" alt="coding" width="400" scr="![image](https://github.com/user-attachments/assets/7ed4c09c-e569-48e4-903a-274f1d248127)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-tiwary&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-tiwary" /> </p>
 
