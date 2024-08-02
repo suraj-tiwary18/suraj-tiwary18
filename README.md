@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Tiwari</h1>
 <h3 align="center">A passionate frontend Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" scr="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" scr="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkliTTZjeHdOTFBHbG5zNzJWM0VLSVhqUjQzQXxBQ3Jtc0trWG93dURMSXc2U0RCZ3RwZldXa014MWs4NEVvOXA2dGlZT3Y2TXR5ZV95c3VTaFRmdThZUzhsaTdmLWcwUXFSdFFrYURPYlRCS0xPaHhvQkVVRlFUdHpQV1o1U3R0VjhCblRBMG1KOEJIcXdSXzZKaw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-tiwary&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-tiwary" /> </p>
 
