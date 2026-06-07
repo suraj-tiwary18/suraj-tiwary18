@@ -1,18 +1,61 @@
 <h1 align="center">Hi 👋, I'm Suraj Tiwari</h1>
-<h3 align="center">Passionate MERN Stack Developer from India 🇮🇳</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-tiwary&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-tiwary" /> </p>
+
+<h3 align="center">
+B.Tech Student | MERN Stack Learner | Data Science Enthusiast 🚀
+</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-- 📫 How to reach me **surajtiwari9308@gmail.com**
+### 👨‍💻 About Me
 
-- ⚡ Fun fact **I am funny😎**
+- 🎓 First Year B.Tech Student
+- 💻 Interested in Web Development and Data Science
+- 🌱 Currently learning NumPy and Pandas
+- 🐍 Python Programmer
+- 🚀 Building projects to improve my skills
+- 📚 Exploring new technologies every day
+- 🎯 Open to Software Development and Data Science opportunities
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Languages and Tools
+
 <p align="left">
-<a href="https://twitter.com/surajtiwary018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surajtiwary018" height="30" width="40" /></a>
-<a href="https://instagram.com/surajtiwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surajtiwary" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mongodb,nodejs,git,github,vscode" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 📊 GitHub Stats
+
+<!-- <p align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=suraj-tiwary18&theme=tokyonight)
+</p> -->
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-tiwary18" />
+</p>
+
+### 🌱 Currently Learning
+
+- NumPy
+- Pandas
+- Data Science
+- Machine Learning Fundamentals
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/suraj-tiwari-580984332" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/surajtiwari9308">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="50" />
+</a>
+</p>
+
+📧 Email: surajtiwari9308@gmail.com
+
+### ⚡ Fun Fact
+
+I enjoy turning ideas into projects and learning new technologies every day.
+
+---
+⭐ Consistency + Projects + Learning = Growth
