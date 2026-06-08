@@ -19,17 +19,13 @@ B.Tech Student | MERN Stack Learner | Data Science Enthusiast 🚀
 ### 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mongodb,nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,mongodb,nodejs,git,github,vscode" />
 </p>
 
 ### 📊 GitHub Stats
 
-<!-- <p align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=suraj-tiwary18&theme=tokyonight)
-</p> -->
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-tiwary18" />
+  <img src="https://streak-stats.demolab.com?user=suraj-tiwary18&theme=tokyonight" />
 </p>
 
 ### 🌱 Currently Learning
