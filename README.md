@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Tiwari</h1>
 
+![Profile Views](https://komarev.com/ghpvc/?username=suraj-tiwary18&color=blue)
+
 <h3 align="center">
 B.Tech Student | MERN Stack Learner | Data Science Enthusiast 🚀
 </h3>
