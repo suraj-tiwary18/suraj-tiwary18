@@ -43,7 +43,7 @@ B.Tech Student | MERN Stack Learner | Data Science Enthusiast 🚀
 </a>
 
 <a href="https://www.hackerrank.com/profile/surajtiwari9308">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="50" colour="white"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="50" />
 </a>
 </p>
 
