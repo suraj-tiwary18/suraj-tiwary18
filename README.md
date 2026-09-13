@@ -2,7 +2,7 @@
  <img alt="coding" width="30" src="https://media.tenor.com/a2m-Y3dLmD0AAAAj/mona-github-loading-github.gif"> Hi 👋, I'm Suraj Tiwari</h1>
 
 <h3 align="center">
-B.Tech Student | MERN Stack Learner | Data Science Enthusiast 🚀
+B.Tech Student | MERN Stack Developer | Data Science Enthusiast 🚀
 </h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
