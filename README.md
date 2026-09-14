@@ -39,6 +39,7 @@ B.Tech Student | MERN Stack Developer | Data Science Enthusiast 🚀
 ### 🌐 Connect With Me
 
 <p align="left">
+ 
 <a href="https://linkedin.com/in/suraj-tiwari-580984332" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
@@ -46,12 +47,12 @@ B.Tech Student | MERN Stack Developer | Data Science Enthusiast 🚀
 <a href="https://www.hackerrank.com/profile/surajtiwari9308">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="50" />
 </a>
-</p>
 
-<p align="left">
-<a href="[https://linkedin.com/in/suraj-tiwari-580984332](https://leetcode.com/u/surajtiwary/)" target="_blank">
-<img src="https://skillicons.dev/icons?i=leetcode" height="50" />
+<a href="https://leetcode.com/u/surajtiwary/" target="_blank">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ4ulClknxE-0lkWOnnJUVRMUzNLU94ty8basAlDtkig&s" height="50" />
 </a>
+
+</p>
 
 📧 Email: surajtiwari9308@gmail.com
 
