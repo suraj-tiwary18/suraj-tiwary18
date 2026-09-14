@@ -20,7 +20,7 @@ B.Tech Student | MERN Stack Developer | Data Science Enthusiast 🚀
 ### 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,mongodb,nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,mongodb,nodejs,git,github,vscode,ai,ml" />
 </p>
 
 ### 📊 GitHub Stats
