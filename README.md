@@ -48,6 +48,11 @@ B.Tech Student | MERN Stack Developer | Data Science Enthusiast 🚀
 </a>
 </p>
 
+<p align="left">
+<a href="[https://linkedin.com/in/suraj-tiwari-580984332](https://leetcode.com/u/surajtiwary/)" target="_blank">
+<img src="https://skillicons.dev/icons?i=leetcode" height="50" />
+</a>
+
 📧 Email: surajtiwari9308@gmail.com
 
 ### ⚡ Fun Fact
