@@ -60,5 +60,5 @@ B.Tech Student | MERN Stack Developer | Data Science Enthusiast 🚀
 
 I enjoy turning ideas into projects and learning new technologies every day.
 
----
+--
 ⭐ Consistency + Projects + Learning = Growth
